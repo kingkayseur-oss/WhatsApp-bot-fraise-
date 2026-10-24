@@ -1,3 +1,4 @@
+require('./web/server.js');
 const {
   default: makeWASocket,
   useMultiFileAuthState,
