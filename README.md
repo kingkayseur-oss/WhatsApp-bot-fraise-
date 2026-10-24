@@ -42,3 +42,4 @@ Crée un fichier dans `commands/`, exporte `{ name, execute(sock, msg, args, sen
 # WhatsApp-bot-fraise-
 Un bot pour tous
 >>>>>>> c03fa3f00ff6c864b3291c7bbf118d7224bb9e9b
+
