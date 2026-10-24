@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fraise Bot — WhatsApp (150 commandes, base légitime)
 
 ## Résumé
@@ -37,3 +38,7 @@ Nécessite `ffmpeg` installé sur le serveur pour les commandes stickers (sticke
 
 ## Ajouter tes propres commandes
 Crée un fichier dans `commands/`, exporte `{ name, execute(sock, msg, args, sender) }` (ou un tableau de plusieurs commandes), importe-le dans `index.js`, ajoute-le à `baseCommands`, puis ajoute son nom dans la bonne catégorie de `lib/menu.js`.
+=======
+# WhatsApp-bot-fraise-
+Un bot pour tous
+>>>>>>> c03fa3f00ff6c864b3291c7bbf118d7224bb9e9b
